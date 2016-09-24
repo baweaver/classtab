@@ -1,0 +1,81 @@
+Epigramme - 20 leichte Stucke fur Gitarre - 6. Casita Abandonada
+(Das verlassene Hauschen - The abandoned house/cottage)
+composed by Jaime Mirtenbaum Zenamon (1953-)
+Edition Margaux (1989), Hans-Gerhard Fey & Peter Strack (Berlin)
+
+tabbed by Weed - weed@wussu.com - 20 February 2016
+
+see Notes and Legend below the tab
+
+MIDI: http://www.classtab.org/zenamon_epigramme_06_casita_abandonada.mid
+video: http://www.youtube.com/watch?v=IVv5UcMbB9g - Norbert Neunzling
+
+tuning: EADGBE
+
+                       F.                            F.                       F.
+1  |   |   |   |   |     |   |   |   |   |   |   |     |   |   |   |   |   |
+e|-0---3---7---6=======|---------0-------------------|-7---6=======3---2=======|
+B|---------------------|-----4----------<12>---------|-------------------------|
+G|---------------------|------------<12>---3<15>=====|-------------------------|
+D|---------------------|<12>-------------------------|-------------------------|
+A|---------------------|-----------------------------|-------------------------|
+E|-0---3---7---6=======|-----------------------------|-7---6=======3---2=======|
+
+                               F.                    F.                    F.
+4  |   |   |   |   |   |   |     |   |   |   |   |     |   |   |   |   |
+e|---------0-------------------|-0---3---7---8=======|-----11----8<20>=====|
+B|-----4----------<12>---------|---------------------|--------<19>---------|
+G|------------<12>---3<12>=====|---------------------|<19>-----------------|
+D|<12>-------------------------|---------------------|---------------------|
+A|-----------------------------|---------------------|---------------------|
+E|-----------------------------|-0---3---7---8=======|---------------------|
+
+                          F.                    F.
+7  |   |   |   |   |   |     |   |   |   |   |
+e|-4---3=======1---0======|--------------0======|
+B|------------------------|-<12>----------------|
+G|------------------------|-----<12>------------|
+D|------------------------|--------3<15>--------|
+A|------------------------|---------------------|
+E|-4---3=======1---0======|---------------------|
+
+
+ molto
+   F.                F.
+8  |   |   |   |     |   |   |   |
+e|-----------------|-----------------||
+B|-0===============|-----------------||
+G|-5===============|-----------------||
+D|-8===============|-----------------||
+A|-----------------|-----------------||
+E|-----------------|-0===============||
+   ff                pp
+
+Notes and Legend
+----------------
+There is no key signature, but the piece keeps close to the key of Em.
+There is no time signature - the times of the individual measures are -
+5/4, 7/4, 6/4, 7/4, 5/4, 5/4, 6/4, 5/4, 4/4, 4/4
+The tempo of the video and the MIDI file is ~80 bpm (quarter notes).
+
+measure 6 - in the video, the last note is B (not C) played as a natural
+            harmonic on the 1st string 19th fret
+measure 8 - in the video, the last note (E) is played as a natural harmonic
+            on the 5th string 19th fret
+
+===   - note held
+F.    - Fermata - pause, or note(s) held
+
+<12>  - natural harmonic on the 12th fret
+3<15> - artificial harmonic, left hand 3rd fret, right hand points to 15th fret
+<19>  - natural harmonic on the 19th fret
+8<20> - artificial harmonic, left hand 8th fret, right hand points to 20th fret
+
+ff     - fortissimo - very loud
+molto  - much, very (molto F. - in measure 9 the chord is held for a long time)
+pp     - pianissimo - very soft
+
+-------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

@@ -1,0 +1,131 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+LA FILADORA (THE SPINNER WOMAN) - MIGUEL LLOBET (1878-1938)
+
+If there are any problems or corrections email andrewlee6@hotmail.com
+
+Gtr I (E A D G B E)
+
+Q=85   3/8
+
+Gtr I
+
+
+  E     E E E   E E E    E  E  E    S S E E
+|---||----0-4-|-7---7-|-12-12-12-|-11p9-7-7-|
+|---||o---0---|---4---|----11----|------7---|
+|-4-||--9-9---|---4---|----------|------8---|
+|---||----6---|---6---|----11----|----------|
+|---||o-------|-6-----|-----9----|----------|
+|---||--0-----|-------|--9-------|--7-------|
+
+
+ 
+   E E E   E E S S   E E E   E E E   E E E   E E E    E  E  E     S S E E
+|-10-9-5-|-4-------|-4-7-2-|-2-0---|---0---|-7---7-|-12-12-12--|-11p9-7-7-|
+|--6-7---|-4---5p0-|-5-----|-4-0---|---9-9-|---7-6-|-----9-11--|------7---|
+|--------|-5---6---|-3-4---|-2-1-4-|-9-9---|---4---|-----------|------8---|
+|--6-7---|---6-----|-------|-------|-------|-----0-|-----------|----------|
+|--------|---------|-------|-2-----|-------|-6-----|-----9-(9)-|----------|
+|--------|---------|-------|---0---|-0-----|-------|--9--------|--7-------|
+
+
+
+   E E E   E E S S   E E E   E E S S   E S S E   E E E   E E E   E E S S
+|-10-9-5-|-4---0---|-4-7-2-|-2-0-----|-4-----4-|-7---4-|-5-9-7-|-4-0-----|
+|--0-7---|-4-------|-5-----|-4-0-5h7-|---5---5-|-4-5---|-6-7---|-5---5h7-|
+|-10-----|-5-------|-4-----|-2-1-----|---6p5-4-|-------|-7-8---|-5-6-----|
+|----7---|---6-7-8-|-------|---------|---------|-5-6---|-------|---------|
+|--------|---------|-------|-2-------|---------|-------|-------|---------|
+|--------|---------|-------|---0-----|---------|-------|-------|---------|
+
+
+                                                               T
+  E S S E   E E E   E E E   E E S S   E E E   Q   E   E  E E   E     E S S
+|-4-----4-|-7---4-|-5-9-7-|-0---0h2-|-4-0-4-|-7-----|-7------|-0(19)---0h2-|
+|---5---5-|-4-5---|-5-----|-0-------|---2---|-6-----|-7------|-------------|
+|---5-6-7-|-------|-----8-|---------|---3---|-7-----|-8------|-------------|
+|---------|-5-6---|-4---7-|-6-------|-4-----|-5---6-|-7-11-9-|-6-----------|
+|---------|-------|-------|-7-------|-------|-------|--------|-------7-----|
+|---------|-------|-----7-|---------|-------|-------|--------|-------------|
+
+
+                         1.        2.
+  E E E   E E E   E E E   E E E     Q. E E
+|-4-0-4-|-7---4-|-5-9-7-|-0------||-0------*|-|
+|-3---1-|-------|-------|-0-----o||-0------*|-|
+|-3-----|---6-5-|-4---8-|-----4--||--------*|-|
+|-3---2-|---6-5-|-3---7-|-6------||-6------*|-|
+|-------|---6-5-|-4---9-|-7-----o||-7------*|-|
+|-------|-------|-----7-|-0------||-0------*|-|
+
+
+
+Duration Legend
+---------------
+
+W - whole; H - half; Q - quarter; E - 8th; S - 16th; T - 32nd; X - 64th;
+a - acciaccatura
+
++ - note tied to previous; . - note dotted; .. - note double dotted
+
+Uncapitalized letters represent notes that are staccato (1/2 duration).
+
+Irregular groupings are notated above the duration line.
+
+Duration letters will always appear directly above the note/fret numbers they
+represents the duration for. Duration letters with no fret number below them
+represent rests. Multi-bar rests are notated in the form Wxn, where n is the
+number of bars to rest for. Low melody durations appear below the staff.
+
+Tablature Legend
+----------------
+
+ h   - hammer-on
+ p   - pull-off
+ b   - bend
+ pb  - pre-bend
+ r   - bend release (if no number after the r, then release immediately)
+ /\  - slide into or out of (from/to "nowhere")
+ s   - legato slide
+ S   - shift slide
+<n> - natural harmonic
+[n]  - artificial harmonic
+n(n) - tapped harmonic
+ ~   - vibrato
+ tr  - trill
+ T   - tap
+ TP  - trem. picking
+ PM  - palm muting
+\n/  - tremolo bar dip; n = amount to dip
+ \n  - tremolo bar down
+ n/  - tremolo bar up
+/n\  - tremolo bar inverted dip
+ =   - hold bend; also acts as connecting device for hammers/pulls
+ <> - volume swell (louder/softer)
+ x   - on rhythm slash represents muted slash
+ o   - on rhythm slash represents single note slash
+
+Misc Legend
+-----------
+
+ |  - bar
+||  - double bar
+||o - repeat start
+o|| - repeat end
+*|  - double bar (ending)
+ :  - bar (freetime)
+ $  - Segno
+ &  - Coda
+
+Tempo markers - <E/E./Q/Q./H/H.> = BPM(8/16=s8/s16)
+where s8 = swing 8ths, s16 = swing 16ths
+
+*********************************************************************
+
+Generated using Power Tab Editor by Brad Larsen
+The Official Power Tab Web Site - http://powertab.guitarnetwork.org
+

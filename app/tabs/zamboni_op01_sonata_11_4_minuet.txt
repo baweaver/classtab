@@ -1,0 +1,63 @@
+Op 1, 12 Sonate - Sonata No 11 - 4. Minuet - Giovanni Zamboni Romano Filho
+from "Sonate d'Intavolatura di Leuto" (Lute Sonatas), 1718
+transcription by Monica Paolini (Ut Orpheus Edizioni CH34, 1998/2009)
+tabbed by Weed - weed@wussu.com - 28 May 2016
+
+MIDI: http://www.classtab.org/zamboni_op01_sonata_11_4_minuet.mid
+video: http://www.youtube.com/watch?v=DLEFZZlAGd8 - Divino Kaps
+
+Notes & Legend below the tab
+
+tuning: D A D F# B E          key: G major          time: 6/8
+
+1    | . . | . .   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e |--------------|-3p2p0-------|-------------|-----------2-|-2p0-------0-|
+B |----------0-3-|-------3p1p0-|-------------|-------------|-0===3-2h3---|
+F#|*-------1-----|-------------|-------3=====|-1=====1p0---|-------------|
+D |*-----0=======|-------------|-------------|-------0=====|-------------|
+A |----2=========|-------------|-2p0---------|---2-4-------|-------0=====|
+D |--5===========|-------------|-----5-4p2-0-|-2-----------|-5=====------|
+
+                        ##
+6   | . . | . .   | . . | . .     | . . | . .   | . . | . .   | . . | . .
+e |-------------|--------------|--------------|-------------|-------------|
+B |-3-2p0-0=====|--------------|--------------|-3p2p0-------|-------5p3p1-|
+F#|-------3-1p0-|-1p0---0=====*|*---------0-3-|-------3p1p0-|---0-3-------|
+D |-------------|-----2-0=====*|*-------0-----|-------------|-------------|
+A |-2=====------|-0=====-------|------0=======|-------------|-------------|
+D |-------5=====|-------0=====-|--0-4=========|-------------|-0===========|
+
+                                                    ##
+11  | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e |-------------|-------------|-3p2p0-------|--------------||
+B |-----1-3p1p0-|-----0-1p0---|-------3p1p0-|-1p0---0=====-||
+F#|---3---------|---1-------3-|-------------|-----3-1=====*||
+D |-------------|-------------|-------------|-0=====------*||
+A |-------------|-------------|-------3=====|--------------||
+D |-0===========|-0===========|-2=====------|-------5=====-||
+
+
+Notes & Legend
+--------------
+The guitar sheet fingering tries to reflect the original lute music and not all
+the bass notes can be held for some of the stretches. They may be easier to play
+using different fingering.
+
+The tempo of the Divino Kaps video and the MIDI is 96 bpm (dotted quarter notes).
+
+===  - note held
+##   - an ornament on the middle note of the chord is indicated in the original
+h    - hammer on
+p    - pull-off
+
+|---  ---|
+|---  ---|
+|*--  --*|  repeat the section
+|*--  --*|
+|---  ---|
+|---  ---|
+
+-------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

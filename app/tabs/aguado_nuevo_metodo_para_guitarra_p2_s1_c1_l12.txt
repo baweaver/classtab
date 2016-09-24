@@ -1,0 +1,80 @@
+Nuevo Metodo para Guitarra por D. Dionisio Aguado
+Part 2, Section 1, Chapter 1, Lesson 12 in C Major
+
+Nuevo Metodo para Guitarra - (1st edition, Madrid, Benito Campo, 1843)
+Parte Segunda Practica - Seccion primera - Lecciones - Capitulo I
+Leccion 12, Para 94
+http://imslp.org/wiki/Nuevo_m%C3%A9todo_para_guitarra_%28Aguado,_Dionisio%29
+
+Metodo de Guitarra I - Revised by Eythor Thorlaksson (2000) - Lesson 6
+http://www.classicalguitarschool.net/en/Methods.aspx
+
+see Notes and Legend below the tab
+
+for more info : yazbek999@hotmail.com (May 2013)
+
+Tuning: E A D G B E     Key: C     Time: 3/8     tempo: (eighth note) 150 bpm
+
+
+         i m           i m           i m                      i m
+1     S. T E  E     S. T E  E     S. T E  E     Q    E     S. T E  E   
+E||--------------|----------0--|----------3--|--0-------|-------------|
+B||---1--L----3--|--1--L-------|--3----------|-------1--|--1--L----1--|
+G||*-----0-0-----|-----0-0-----|-----0-0-----|----------|-----0-0-----|
+D||*--2-------3--|--2----------|-------------|----------|-------------|
+A||---3-------2--|--3----------|--2----------|--3-------|--3----------|
+E||--------------|-------------|-------------|----------|-------------|
+              4                   4
+              3                   2
+              2
+
+                                          i m                       i m
+6  Q    E     E  E  E     Q    E       S. T E  E     E  E  E     S. T E  E   
+-----------|-----------|-----------||----------0--|-----------|--0-------1--|
+--------3--|--0-----0--|--1--------||--3----------|--3--------|-------------|
+---2-------|-----2-----|----------*||*----0-0-----|-----0--0--|-----0-0-----|
+---3-------|--3--------|--2-------*||*------------|-----------|-------------|
+-----------|-----------|--3--------||--2-------3--|--2--------|--3-------2--|
+--------1--|--3--------|-----------||-------------|-----------|-------------|
+   2    4     4  2                     4                                 1
+   3    1     3                        2                                 2
+
+                 i m
+12 Q    E     S. T E  E     E  E  E     Q    E     Q    E
+---0-------|--3----------|-----------|----------|----------||
+--------1--|-----1-1-----|-----3--1--|--0----3--|--1-------||
+-----------|----------3--|--2--------|--0-------|---------*||
+-----------|--2----------|--3--------|-------3--|--2------*||
+---3-------|-------------|-----------|----------|--3-------||
+-----------|-------------|-----------|-------3--|----------||
+              4  1    3     2  4  1          4
+              2             3                3
+                                             2
+
+Notes
+-----
+
+The tab is based on the Benito Campo 1843 edition.
+Additional left hand fingering is taken from the Thorlaksson 2000 edition.
+
+Aguado's wrote six 'Methods' - for information on three of them see -
+"Dionisio Aguado - New Guitar Method - Introduction to the Tecla edition"
+(Brian Jeffery, 1981)
+http://www.tecla.com/extras/0001/0011/0011intro.htm
+
+Legend
+------
+
+left hand fingering below the tab     right hand fingering above the tab
+1 - index                             i - index
+2 - middle                            m - middle
+3 - ring
+4 - little
+
+Q - quarter note
+E - 8th note
+S - 16th note
+T - 32nd note
+. - dotted note (note held for its value plus half its value)
+L - tied note (the note continues to be held for the additional time value)
+

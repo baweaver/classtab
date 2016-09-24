@@ -1,0 +1,61 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+From: Rick Kephart <rmk@netaxs.com>
+Subject: TAB: Gregorian Chant: Ave_Regina_Coelorum.tab
+
+                   Ave Regina Coelorum             Solemnes
+                  (Hail Queen of Heaven)
+
+A Gregorian Chant for Compline (before bed)
+Normal guitar tuning. Chant has no time signature.
+"." after a note means hold. "/" means hammer-on. "\" means pull-off.
+Keep the notes (except for the dotted notes) evenly spaced.
+
+
+e|---------------------------|------------------------------|-
+b|----------------------------------1-------------------------
+g|---------------------0---------2-----3--0--2--0-----2--0.---
+D|--3--2--0-----0---3-----3.-----------------------3----------
+A|-----------3------------------------------------------------
+E|------------------------------------------------------------
+    A-ve  Re-gi-na Coe-lo-rum!   A-ve Do-mi-na An-ge-lo-rum!
+
+e ------------------------------|------------------------------|-
+b ---------------------------------------------------------------
+g ------------------------0---------2--0---3--2---0------0-------
+D ---3--2--0-------0--3------3.-----------------------0-----3.---
+A ------------3--------------------------------------------------
+E ---------------------------------------------------------------
+   Sal-ve ra-dix, sal-ve por-ta,   Ex qua mun-do lux est or-ta.
+  
+e ------------------------------|----------------------------|-
+b ---------------------------------1---------------------------
+g ------0---2---2--0--2--3--2.--------3--2--0----------0-------
+D ---3-------------------------------------------3--0-----3.---
+A -------------------------------------------------------------
+E -------------------------------------------------------------
+    Gau-de Vir-go glo-ri-o-sa,    Su-per om-nes spe-ci-o-sa:
+
+e ------------------------------|---------------------------------------|-
+b ---------------------------------1--------1/3---------------------------
+g --3--2--0--3--2--0----0/2--2.-------3--3-------2.----2----0-----0.------
+D --------------------3----------------------------------------3-----3.---
+A ------------------------------------------------------------------------
+E ------------------------------------------------------------------------
+   Va-le, o val-de de-co-----ra,  Et pro no------bis Chris-tum ex-o-ra.
+
+
+Ave Regina Coelorum         | Hail Queen of Heaven
+Ave Domina Angelorum        | Hail Lady of Angels
+Salve radix, salve porta    | Hail root, hail gate
+Ex qua mundo lux est orta   | from which light has risen to the world
+Gaude Virgo gloriosa        | Rejoice, glorious Virgin
+Super omnes speciosa        | most fair of all 
+Vale, o valde decora        | Vale, o valde decora
+Et pro nobis Christum exora | Et pro nobis Christum exora
+
+Tablature by Rick Kephart  rmk@netaxs.com
+

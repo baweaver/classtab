@@ -1,0 +1,96 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+
+**************************************
+Sor - Op 6 No 8 - (Segovia Study No 1)
+**************************************
+
+Date: Thu, 28 Dec 95 02:40 PST
+From: rainbow@chatlink.com (Michael and Victor Zefas)
+Subject: Estudio 1 written by Fernando Sor
+
+This following piece is the first of the famous twenty performed by
+people such as Lucien Battaglia and Andres Segovia. It is in the key of C
+and is in 3/4 time.  Above the tablature, I have placed "lines" denoting the
+1-2-3 beats of a measure.  I can understand it is a little confusing, so if
+anybody has any suggestions, please e-mail at the address I supplied below.  
+
+Also, I should tell you that when you see "Arp." above a certain chord,
+you should arpeggiate the chord ( sorry, there wasn't enough room ). The
+equal (=) sign means that that certain note should be held out until the
+equals signs succession is stopped.
+
+Personally, I love this piece. Unfortunately, I am just a beginner, and
+I cannot play it to utmost perfection, although I do understand what is
+involved to make it perfect.  There are so many other pieces in the key of C
+that are bland. But this one has flavor and variety ( and minor stuff which
+I love! ).  It is actually quite a difficult song if it is played right.
+
+The end is quite confusing ( last two measures ).  All I can do is
+explain it in words what is happening.  What's really happening is both of
+the C's ring throughout the measure, therefore you have to keep them
+fretted.  At the beginning of the last measure the F on the fourth string
+needs to be held 1 full beat into the measure with the pinky finger.
+
+!!!!IMPORTANT!!!!  Might I add that all pull-offs in this song are
+grace notes ( really quick pull-offs ). Good luck and enjoy!
+
+p- pull-off ( quick )
+Arp.- arpeggiate chord
+"=" - means to hold note until succession of "=" stop.
+let ring- do not mute the strings. let each of the notes of the chord ring.
+   
+                                                         1/2CIII    
+  |  |  |   |  |  |     |  |  |   |  |  |     |  |    |     |    |    |
+E-0--0--0-|-------0---|-1--1--1-|-0-----1---|-3--0----1-0-|------0--------|
+B-1--1--1-|-3-----2---|-3--3--3-|-3--1--3---|-5--1----3-1-|-3------3--1---|
+G---------|-5--4------|-------0-|-2-----0---|----2-0------|-4----5-4--2---|
+D----2--3-|-5-----3-2-|-0--3----|---------3-|-2-------3---|-5-3--2----3-2-|
+A-3-------|-----------|---------|-----------|-------------|---------------|
+E---------|-----------|---------|-----------|-------------|---------------|
+                                                                    CI
+  |    |    |     |    |  |   |  |  |   |  |  |   |  |  |   |    |  |
+E---------------|-----------|---------|---------|----3--1-|-1p0-------|
+B-3-1--0----1-0-|------3--5-|-0--1----|---------|---------|---------3-|
+G-4-2--1----2-0-|-2----0--0-|-0--2--2-|-0-------|---------|------0--1-|
+D-0-0--2-0------|-4---------|-0-----4-|----5--3-|-2-----0-|-----------|
+A-----------3---|-5-3--2--3-|-------5-|---------|---------|-3-------1-|
+E---------------|-----------|---------|-3-------|---------|-----------|
+ CII                  Let ring 1/2CII
+  |  |  |   |    |  |   |    |  |   |    |  |   |  |  |   |  |  |   |  |  |
+E----5--3-|-3p1-----0-|------5--3-|-3p1-----0-|-0-------|---------|-0-------|
+B-2-----5-|-3---------|-3-------2-|-3---------|----3--1-|-0--1--3-|-1-------|
+G-2-------|------2--0-|---2-------|------2--3-|-2-----2-|-0--2--4-|---------|
+D---------|-0-------2-|-3-------2-|-0-------5-|-3-----4-|----3--0-|----0--2-|
+A-0-----4-|-----------|-----------|-----------|---------|---------|-3-------|
+E---------|-----------|-----------|-----------|---------|---------|---------|
+                                                   CV---|           CV
+  |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |
+E-------0-|-1-------|----0--1-|-3-------|-0--1--5-|---------|---------|
+B-1--3--1-|-3-------|-3--1--3-|-5-------|-1--3--6-|-5--6--3-|----5--7-|
+G-2--4----|---------|-4-------|-------0-|-2-------|-5--7--4-|-5-----5-|
+D-3-------|-0--2--3-|-5-------|-2--3----|----3--0-|-5-------|---------|
+A---------|---------|---------|---------|---------|---------|-3-----5-|
+E---------|---------|---------|---------|---------|-------3-|---------|
+ CIII-----|CI---|                                        Arp.      Arp.
+  |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |   |  |  |
+E-3-------|-1-------|-0-------|---------|---------|-------5=|====3--3=|
+B----3--5-|----1--3-|----0--2-|-3-----0-|-1--3--0-|-1-------|---------|
+G-4-----3-|-2-----2-|-1-----0-|----2----|----2----|-------5-|-4-----3-|
+D-5-------|-3-----3-|-2-------|-4-----3-|-2-----3-|-2--2--4-|-5--0--2-|
+A-------3-|---------|-------0-|-5-------|-0-------|-3-------|---------|
+E---------|---------|---------|-------3-|----1--3-|---------|---------|
+       Arp.      Arp.      Arp.      Arp.
+  |  |  |   |  |  |   |  |  |   |  |  |   | .  |   .  |   |    |  .  |
+E====1--1=|====0--0=|====-----|---------|---------------|--------------||
+B---------|---------|----3--3=|====1--1=|======1p0----0-|-1============||
+G-2-----2-|-1-----0-|---------|---------|----------2----|--------------||
+D-3-----0-|-2-------|-4-----3-|-2-----4-|-0-2--3========|====3p2--0--2-||
+A----3----|----2--4-|-5--0--2-|-3--0--0-|---------------|-3============||
+E---------|---------|---------|---------|-3=============|--------------||
+
+Submitted by Victor Zefas on December 27, 1995.
+If you have any comments, questions, or suggestions,
+please e-mail me at: rainbow@chatlink.com

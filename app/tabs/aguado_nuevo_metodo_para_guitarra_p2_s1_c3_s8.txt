@@ -1,0 +1,73 @@
+Nuevo Metodo Para Guitarra - Dionisio Aguado (1784-1849)
+Benito Campo, Madrid, 1843 - Part 2, Section 1, Chapter 3, Sheet 8
+Imitaciones - Harpa - Andante in D
+
+************************************************************************
+this piece has been taken from Donald Sauter's page -
+"The complete works of Dionisio Aguado" which provides an index
+to the 1994 Chantarelle edition of his works for guitar -
+http://donaldsauter.com/dionisio-aguado.htm
+
+more tabs + lots of other guitar info can be found via his home page -
+http://donaldsauter.com
+
+Donald's original tab was done in the spaces rather than on the lines
+(using "_" rather than "-" between the notes) - this is explained at -
+http://donaldsauter.com/tablature.htm and
+http://donaldsauter.com/ascii-tablature.htm
+
+Weed - March 2010 - weed@wussu.com
+*****************************************************************************
+
+"Study in Natural Harmonics
+
+This piece comes from Aguado's Nuevo Metodo para Guitarra, 1843
+(Chanterelle v2/p82). The intent is not to propose this as the way
+harmonics should be notated. See my page on harmonics notation - 
+http://donaldsauter.com/myharm.htm 
+
+In this case, though, tablature is surely the easiest way to read the piece.
+I've doubled the rhythm values, turning 2/4 into 4/4. It isn't clear what
+Aguado intended in measure 22 (counting partial measures). Other errors have
+been fixed without comment. He had a rough time with 3's and 5's."
+
+- Donald Sauter <donaldsauter@gmail.com>
+
+                              Andante
+
+6 = D.  (All natural harmonics.)                        D. Aguado
+
+                                                      ____   ____
+  |  | | | |  | | | |  |  | | |  | |  | |  | | | |  | |.-| | |.-| 
+---|--------|--------|---12----|12-------|--------|--------------|
+---|-------7|-7------|-7------7|---------|-------7|-7------7----7|
+---|-------7|-----5--|-7-------|---------|-------7|---3----------|
+---|-5---5--|-3-----7|----7-5--|---7----7|-5---5--|-3----3---3---|
+--5|---5----|-----3--|---------|-9---12--|---5----|--------------|
+---|-4---4--|--------|------4-5|---------|-4---4--|--------------|
+
+ | |  | |  | |  |     |  | | | |  | |  | |  | | | |  | |  | | 
+-----12--|--------||---|--------|12-------|--------|---------|
+---7-----|--------||---|-----7--|---------|-7------|-7-------|
+-----12--|-------*||*--|-5---7--|---------|-----5--|-7-------|
+-5-7-----|-5-----*||*-7|---7---7|---7----7|-3-7---7|---7----7|
+-----12-9|---5----||---|-3------|-9---12--|-----3--|-----12--|
+-4-------|-4---12-||---|--------|---------|--------|---------|
+
+                      ___ _______  _______
+ | | | |  | |  | |  | | | | | | |  | | | | | |  | | | |  | | |  |  
+--------|-----12--|--------------|------------|--------|-------12|
+-5---7--|---------|-7-5----------|------------|-------7|-7-------|
+-5------|-5-------|-7-----5------|------------|-------7|-----5---|
+---7-3-7|---7----7|-----3---4---5|---3-------7|-5---5--|-3------7|
+--------|-3----9--|-----------3--|-4---3-4-5--|---5----|-----3---|
+--------|---------|--------------|------------|-4---4--|---------|
+
+ |  | | |  | |  | |  | | | |  | | | |   | |  |  |   |  | |
+---12----|12---12--|--------|--------|-12--------|-12-------||
+-7------7|---------|-------7|-7---7--|-12--------|----------||
+-7------7|---------|-------7|-----7--|-12-5----12|-12------*||
+----7-5--|---7--7-7|-5---5--|-3-----5|-----------|----12-5-*||
+---------|-9----9--|---5----|-------5|------12--9|----------||
+------4--|---------|-4---4--|---5---4|-----------|-12----4--||
+

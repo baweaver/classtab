@@ -1,0 +1,76 @@
+#---------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+Theme from Mozart Sonata No. 11 in A Major, K.331
+
+transcribed for guitar by Geoff M. Phillips <biteitgates@msn.com>
+
+Well, let's see here....I transposed the piece from the original key above to
+D Major to make it easier to play on the guitar.  I have tried to stick as
+close to the original piano score as possible, and the dropped D tuning was
+added to enhance the upward bass movement of the last few measures.  This is
+the primary theme from the sonata's first movement, which is a set of
+variations based on this theme. I will probably transcribe some of the
+variations, let me know which one's you would like to see.  Repeat each
+section once.
+
+Please, please, listen to the midi file to get an idea of what is expected
+of the rhythm and dynamics. Connect the notes as much as possible and try not
+to screw it up. It isn't that hard to play, and its fun. Listen to a live
+performance on the piano to get an idea.
+
+Let me know what you think. Have fun!
+
+
+                 Theme from Sonata No. 11 in A Major
+
+
+6 string guitar / Drop D Tuning - DADGBE
+
+6/8 Time
+
+Andante grazioso (slowly and gracefully, grazioso = charming)
+
+piano
+|----------5--5-|----2---3--3-|-----------|-2--5-3---2--0-|--------5--5---|
+|-7----8-7------|-5----5------|-3--3-5--5-|----5-----3--2-|-7--8-7--------|
+|----------2--2-|-2----2-2--2-|-2--2-2--2-|-2-------------|--------2--2---|
+|-7------7-4--4-|----0---2--2-|-----------|-0-------------|-7----7-4--4---|
+|-5----7-5------|-4----4------|-2--2-4--4-|----------0----|-5--7-5--------|
+|---------------|-------------|-----------|----5----------|---------------|
+
+               getting louder, then soft
+|----2---3--3-|---------3--|-2--0-------||
+|-5----5------|-3--5-7--5--|-3--2-3----o||
+|-2----2-2--2-|-2--2----4--|-2--0-2-----||
+|----0---2--2-|------7-----|------4-----||
+|-4----4------|-2--4-5-----|-0--0-5----o||
+|-------------|---------5--|------------||
+
+mezzo piano
+|-5----7--5--7-----7-|79-10---9--7--7--5--5-|
+|------------------0-|-----------0----------|
+|---------2-----0----|------0-------------2-|
+|-0--4-------0-------|---0----------0--4----|
+|--------------------|----------------------|
+|--------------------|----------------------|
+
+accentuate the high A
+|-5--------5--3-----5----------2---0--|----------5--5-|----2---3--3-|
+|----7--3--------5-----7---3---3---2--|-7----8-7------|-5----5------|
+|----------0---------------1---2------|----------2--2-|-2----2-2--2-|
+|-4-----------------4-----------------|-7------7-4--4-|----0---2--2-|
+|-5--------4--------5------2---0------|-5----7-5------|-4----4------|
+|-------------------------------------|---------------|-------------|
+
+               soft          loud
+|---------3--|-2--0-0---2--|--2----3--5-----7---9-10---------------------||
+|-3--5-7--5--|-3--2-2---3--|--3----2--3-----------------3----7--5---3---o||
+|-2--2----4--|-2--0-0------|--2----2-------------------------6-----------||
+|------7-----|------0------|--0----2--------5-----------4----5------4----||
+|-2--4-5-----|-0--0--------|----------------------------0----0----------o||
+|---------5--|-------------|--0----2--4-----5-----------------------0----||
+
+

@@ -1,0 +1,50 @@
+HEJ SLOVENI
+
+Thought to be based on a melody by Michal Kleofas Oginski (1765-1833)
+
+TABBED BY: ZELJKO MATOVIC (zeekmati@msn.ca)
+
+This is the old Yugoslavian National Anthem called "Hej Sloveni"
+("Hey Slavs" - words by Samuel Tomasik, used 1945-2003).
+I decided to tab it out one day having heard someone play it on a piano.
+I haven't included many details about barring and such - I think it's every
+player's decision whether to barre or not. I also haven't added fingerings
+because every one plays differently. Listen to a recording if possible to
+get a better idea of it. And remember if there are mistakes please email me.
+
+It's not too difficult and it's in standard tuning.
+
+Try and sustain the bass notes as long as possibe because otherwise a rather
+thin sound will result... try.
+
+Play it flowingly too.
+
+arp=Arrpegiate
+natural harmonic= <>
+
+E||--------------------------3--------------|
+B||x----5-8--8--10-8-6-5-3-3----6-6--5-----x|
+G||--5--5-5--5-----0---------5--------------|
+D||-------------------------------3---------|
+A||x-3-----------8-------5-5---------3-----x|
+E||-------8------------------3--------------|
+
+    mf                                       arp              arp
+E-------------------------------------|--8--8-8-7-5--------------------|
+B--5--3-3--6--6-5-5-8--8-6-6-10--10-8-|x------10----8-10--10-10-8-6-5--|
+G----------------------0---------10---|--9----9-------10-----8--0------|
+D--5-------3--3-3-5--------------10---|--7----7-------10-----9---------|
+A------------------------5------------|x---------------8-----7--7------|
+E-------------------------------------|--------------------------------|
+  "p" and gets to "mf" by the end of the bar and continues...
+
+  arp              arp
+E------3----------|----------------||
+B--3-3----6-6-5--x|-3-3-8----------||
+G--0---0----------|-0------4-<7>-5-||
+D----0------3-----|-0-0----5-------||
+A-------------3--x|--------------3-||
+E--3--------------|-3-3------------||
+
+           ...until here where its "p"
+

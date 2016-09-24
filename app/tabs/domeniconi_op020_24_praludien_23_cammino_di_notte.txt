@@ -1,0 +1,106 @@
+Op 20, 24 Praludien - 23 Cammino di notte (Path of the night) - Carlo Domeniconi
+Gitarren-Studio Musikverlag, Eleonora & Michael Haas, Berlin, 1985 (GS-050)
+
+MIDI: http://classtab.org/domeniconi_op020_24_praludien_23_cammino_di_notte.mid
+
+Tabbed by Weed - weed@wussu.com - 5 January 2015
+
+See Notes and Legend below the tab.
+
+tuning: EADGBE          time: 3/4          tempo: 88 bpm (quarter notes)
+
+1   |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|--2=========0-|-------------|-------------|-------------|-2=========0-|
+B|----0---0=====|-2=========--|---0---0=====|---0---0=====|---0---0=====|
+G|*---0---0=====|---0---0=====|---0---0=====|---0---0=====|---0---0=====|
+D|*-------------|---4---4=====|-------------|-------------|-------------|
+A|--------------|-------------|-------------|-------------|-------------|
+E|--------------|-----------0-|-2=========0=|-3=========0=|=========----|
+    1             1 3           1             2             1
+    > > > > > > > > >       < < <     < < <   > > > > > >     > > > > > >
+                            oscuro
+
+                                         P
+6  |   |   |     |   |   |   ++ |   |   |     |   |   |     |   |   |
+E|-------------|-------------||-------------|-0---0===0---|-----0===0===|
+B|-3=========--|---0---0=====||---0---0===--|-0---0===0---|-----0===0===|
+G|---0---0=====|-------------||---0---0===--|-0---0===0---|-----0===0===|
+D|---4---4=====|---4---4=====||---4---4===--|-------------|-------------|
+A|-----------0-|-2=========4-||-2=========5=|=======4=====|<12>===------|
+E|-------------|-------------||-------------|-------------|------<7>====|
+   2 3           1 3       2              4         3       4
+ > > > > >   < < <                        > > > > > > > > > > > >
+                                          molto ritmico ma dolce
+
+                                                           .   Fe.
+11 |   |   |     |   |   |     |   |   |     |   |   |     |   |   |
+E|=====5---6---|-7=========6-|-----------0-|-------------|--------------||
+B|=====0=======|---6---0=====|-7=========--|-4-----------|-2---4=======-||
+G|=====0=======|---8---0=====|---6---0=====|-----3---4---|-1---3=======*||
+D|-------------|-------------|---8---0=====|-----5---4---|-3---1=======*||
+A|-------------|-------------|-------------|-------------|--------------||
+E|-2===========|-0===========|-------------|-------------|--------------||
+       4   4     2 1       1   2 1           2   1   4     2   4
+   1               3             3               3   3     1   3
+   < < < < <     f                                         3   1
+   rall.         poco aggressivo         un poco rall.
+                 oscuro
+
+Coda                       Fe.
+16 |   |   |     |   |   |     |   |   |     |   |   |
+E|-------------|-------------|-------------|-------------||
+B|---0---0=====|---0---0===--|-------------|-------------||
+G|---0---0=====|---0---0===--|-------------|-------------||
+D|---4---4=====|---4---4===4-|=============|=============||
+A|-2=========5-|-2=========--|-2===========|=============||
+E|-------------|-------------|-------------|<7>=====-----||
+   1 3       4             3
+                       morendo
+
+
+Notes and Legend
+----------------
+There is no given key signature, but it is closest to the key of E, with the
+Coda in B. The sheet gives 1 min 12 sec for the time of the piece. The MIDI
+is 57 seconds long.
+
+Order of play: measures 1-15, 1-7, 16-19
+
+left hand fingering below tab
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - note duration
+++     - jump to Coda on repeat
+P      - (above the tab) short pause (between notes)
+Fe.    - Fermata - long pause (notes held)
+.      - (above the tab) - staccato - detached - the note(s) are cut short
+
+<7>    - natural harmonic on the open string, 7th fret
+<12>   - natural harmonic on the open string, 12th fret
+
+expressions (below the tab)
+< < <  - crescendo - becoming louder
+> > >  - decrescendo - becoming softer
+f      - forte - loud
+rall.  - rallentando - slowing down
+
+molto ritmico ma dolce - very rhythmically but sweetly
+morendo - dying away
+oscuro - dark, gloomy, obscure, vague, enigmatic
+poco aggressivo - a little more aggressively
+un poco rall. - slowing down a little
+
+|---  ---|
+|---  ---|
+|*--  --*|  repeat the section
+|*--  --*|  (as far as the ++)
+|---  ---|
+|---  ---|
+
+------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

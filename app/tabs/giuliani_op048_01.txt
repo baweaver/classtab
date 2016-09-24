@@ -1,0 +1,124 @@
+24 Etudes - Op 48 No 1, Vivace in C - Mauro Giuliani (1781-1840)
+
+tabbed by Weed - 4 November 2006 - weed@wussu.com
+
+Notes and Legend below tab
+
+tuning - E A D G B e         time signature - 2/2
+
+  Lively (Vivace)
+
+           CVIII...  CVI.... CV......  CIII............  CI.....
+0  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+ |---------8===8===|-8===7===7===5===|-5===4===3===3===|-3===1===1===0===|
+ |-----------8---8-|---6---6---5---5-|---3---3---3---3-|---1---1---0---0-|
+ |---------9---9---|-7---7---5---5---|-4---4---4---4---|-2---2---0---0---|
+ |-----------------|-----------------|-----------------|-----------------|
+ |-----------------|-----------------|-----------------|-----------------|
+ |-----------------|-----------------|-----------------|-----------------|
+           1         4   3   3         4   3             4       1
+           2         2                 2                 2
+   moderately loud (mf)
+
+4  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+ |-0===------------|-----3-----------|-----3---1p0-----|-----------------|
+ |-----3===1p0-----|-1-------1p0-----|-1-----------3-1-|---0-1-3-1---0---|
+ |---2---2-----2-0-|---0---0-----2-0-|---0---0---------|-2---------------|
+ |-3---3---3=======|-2=======3=======|-2=======--------|---------2---0---|
+ |-----------------|-----------------|-----------------|-----------------|
+ |-----------------|-----------------|---------0=======|-1-------3---3---|
+                                               1   4 2   3   2 4
+                                                         1
+
+8  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+ |-------------3===|-----5===----5===|-----7===----7===|-----8===----10==|
+ |-1=======--1-----|-----------3-----|-----------5-----|---5-------8-----|
+ |-----------------|---5-------------|---7-------------|-----------------|
+ |-2=======2=====2-|-3=====3-4=====4-|-5=====5-6=====6-|-7=====7-9=====9/|
+ |-3=======--------|-----------------|-----------------|-----------------|
+ |-----------------|-----------------|-----------------|-----------------|
+               4---------4       4---------4       4---------4-------4  4-
+             1         3       1         3       1         1       1
+           2         1       2         1       2         3       2      2-
+          sfz       sfz     sfz       sfz     sfz       sfz     sfz
+
+           CVIII...                    CIII... CI......
+12 |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+ |-----12==------10|-----8---------6-|-----5===------3-|-----1===----1===|
+ |---8---------9---|-------------5---|---3---------2---|---3-------3-----|
+ |-----------9-----|---9-------6-----|-----------2-----|-----------------|
+ |/10---10-9=======|-7=====7-5=======|-3=====3-2=======|-0=====----------|
+ |-----------------|-----------------|-----------------|-------3-2=====--|
+ |-----------------|-----------------|-----------------|---------------3-|
+  -4             2-------2         4-------4---------4       1
+   1                   3       3 2                         4
+  -2       1         1     1-1         1       1
+  sfz     sfz       sfz     sfz       sfz     sfz
+
+                                       F
+16 |   .   |   .     |   .   |   .     |   .   |   .
+ |---0---0---0---0-|-------------3===|-0=======-------||
+ |---1---1---1---1-|-----1===--------|-1=======-------||
+ |-----------------|-----2===----0===|-0=======-------||
+ |-----------------|-----3===----0===|----------------||
+ |-3---2---0-------|-----------------|-3=======-------||
+ |-------------3---|-1===----3-------|----------------||
+                     loud              very loud
+
+
+Notes
+-----
+
+from the Preface to the Tecla Edition (Brian Jeffrey, 2006)
+http://www.tecla.com/extras/2001/2536/preface.htm
+
+"Mauro Giuliani (1781-1829) was one of the most brilliant guitarists of his
+time and a fine composer for the instrument. He lived in Vienna in the time of
+Schubert and Beethoven, as well as in Italy. These 24 Exercises for the guitar,
+Op 48, are among the best known of his works and a fine collection. They come
+from that tremendous period in Giuliani's life when he had just arrived in
+Vienna. They are brilliant in every way: every piece is intensely musical, uses
+the resources of the instrument fully, and every note counts, nothing is wasted.
+Like Carcassi's 25 Etudes op. 60, the collection can be seen as a whole, because
+it uses contrasting keys from piece to piece and because it builds up to a grand
+climax at the end of the last piece. But it is perfectly acceptable to play the
+pieces as individual items. The Esercizio was first published in Vienna in
+mid-1813, under the title of 'Esercizio per la chitarra, contenente 24 pezzi
+della maggiore difficoltà, diversi preludi, passaggi, ed assolo' (Exercise for
+the guitar, containing 24 pieces of the greatest difficulty, including various
+preludes, passaggi, and solo pieces). It is extremely interesting that the
+original title-page says that the pieces are not merely exercises as solo
+pieces, but that they include 'preludi, passaggi...', that is to say, music
+which can be played as a prelude to something else, or as a 'passage' from one
+item to another. Passaggio is a technical term which is practically
+untranslatable, meaning a piece which shows some conspicuous or brilliant
+feature, modulation, or ornamentation or decoration. The original edition gives
+quite a lot of position indications and some open strings, but no other
+fingering. Usually in this music a dot on a note does not mean staccato, but
+rather not slurred. It usually appears on a note which immediately precedes or
+follows a group of slurred notes and distinguishes it from them, to indicate
+that it is to be plucked separately and not slurred. Sometimes the dot becomes
+a wedge, but whereas in some piano music of the time there is indeed a
+distinction between dot and wedge, in the case of this music of Giuliani there
+appears to be no difference in sense: rather, it seems that it was just a vagary
+of engravers' practice."
+
+Legend
+------
+
+left hand fingering below tab      CI    - barre on the 1st fret
+1    - index                       CIII  - barre on the 3rd fret
+2    - middle                      CV    - barre on the 5th fret
+3    - ring                        CVI   - barre on the 6th fret
+4    - little                      CVIII - barre on the 8th fret
+
+=    - note held for the value shown
+p    - pull-off (representing a slur on the sheet)
+sfz  - played with special emphasis (sforzando)
+/    - slide up
+F    - pause, note held longer than it's value (fermata)
+
+******************************************************************************
+
+more classical tabs at http://www.classtab.org
+

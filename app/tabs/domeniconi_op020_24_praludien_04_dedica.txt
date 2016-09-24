@@ -1,0 +1,84 @@
+Op 20, 24 Praludien - 4. Dedica (alla memoria de MM Ponce) - Carlo Domeniconi
+Gitarren-Studio Musikverlag, Eleonora & Michael Haas, Berlin, 1985 (GS-050)
+
+MIDI - http://www.classtab.org/domeniconi_op020_24_praludien_04_dedica.mid
+vid -  http://www.youtube.com/watch?v=143AXA8ftQ0 - Norbert Neunzling
+
+tabbed by Weed - weed@wussu.com - 12 July 2014
+
+see notes and legend below the tab
+
+tuning: E A D G B E         time: 2/2, 2/4         tempo: 58 bpm (half notes)
+
+
+ time: 2/2
+1   |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|--2-2-3===5-5-2===|-3-3-0-3-2-0-2===|-2-2-3===5-5-8===|-7-5-5-3-5=======||
+B|------------------|-----------------|-----------------|-----------------||
+G|*-2-2-3===5-5-2---|-3-3-0-3-2-0-2===|-2-2-3===5-5-8===|-7-5-5-3-5-------||
+D|*-0=======0=======|-0=======0=======|-0=======0=======|-0=======0=======||
+A|------------------|-----------------|-----------------|-----------------||
+E|------------------|-----------------|-----------------|-----------------||
+    3
+    2
+    < < <   > > >     > > > > > > >     < < < < < < <     > > > > >
+    dolce e p
+
+
+ time: 2/4   time: 2/2                       >
+5  | . | .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-3-3-0-3--||-2-0-2===3-5-3===|-2-0-2===0=======|-8---5---3---2---|
+B|----------||-----------------|-----------------|-----------------|
+G|-3-3-0-3-*||-2-0-2===3-5-3===|-2-0-2===0=======|-8---5---3---2---|
+D|---------*||-0=======0=======|-0=======--------|-----------------|
+A|-0===0===-||-----------------|---------0===0===|=====0=======0===|
+E|----------||-----------------|-----------------|-----------------|
+   > > > >     > > >   < < <     > > > > >         > > > > > > >
+
+
+                   time: 2/4  time: 2/2     AH
+9  |   .   |   .     | . | .    |   .   |   .
+E|-2-2-3===5-5-2===|-3-3-0-3-||-2-0-2===========||
+B|-----------------|---------||-----------3<15>-||
+G|-2-2-3===5-5-2===|-3-3-0-3-||-2-0-2===========||
+D|-0=======0=======|---------||-0=======0=======||
+A|-----------------|-0===0===||-----------------||
+E|-----------------|---------||-----------------||
+                                            4
+   < < <   > > >     < < < <    > > > > > > >
+                                            pp
+
+
+Notes and Legend
+----------------
+
+suggested total time for piece - 52 seconds
+the sheet does not show a key signature - it is closest to D
+
+left hand fingering below tab
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===   - note held
+>     - (above the tab) accented
+AH    - artificial harmonic
+3<15> - left hand 3rd fret, right hand points to the 15th fret
+
+< < < < <  - crescendo - getting louder
+> > > > >  - decrescendo - getting softer
+dolce e p  - dolce e piano - sweetly and softly
+pp         - pianissimo - very soft
+
+|---  ---|
+|---  ---|
+|*--  --*|  repeat the
+|*--  --*|   section
+|---  ---|
+|---  ---|
+
+------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

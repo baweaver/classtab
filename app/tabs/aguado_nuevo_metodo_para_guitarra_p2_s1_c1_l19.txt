@@ -1,0 +1,93 @@
+Nuevo Metodo para Guitarra - Part 2, Section 1, Chapter 1, Lesson 19 in Am
+
+Nuevo Método para Guitarra por D. Dionisio Aguado
+(1st edition, Madrid, Benito Campo, 1843)
+Parte Segunda Practica - Seccion primera - Lecciones - Capitulo I
+Leccion 19 - "Se princippia a usar del dedo medio de la derecha en
+combinacion con el indice, casi sin mover la mano izquierda de un sitio."
+http://imslp.org/wiki/Nuevo_m%C3%A9todo_para_guitarra_%28Aguado,_Dionisio%29
+
+Metodo de Guitarra I - Revised by Eythor Thorlaksson (2000) - Lesson 2
+http://www.classicalguitarschool.net/en/Methods.aspx
+
+Segovia Etudes - Aguado - 8 Lessons - No 2
+
+video: http://www.youtube.com/watch?v=nAN1aJSSenE - Jason Werkema
+video: http://www.youtube.com/watch?v=3qbFSoo5miQ - Norbert Neunzling
+
+tab by Tarek Yazbek, April 2013  -  for more info: yazbek999@hotmail.com
+
+see Notes and Legend below the tab
+
+Tuning: E A D G B E      Key: Am     Time: 2/4
+
+      p i m i
+1     S S S S S S S S    S S S S S S S S    S S S S S S S S    S S S S S S S S
+E||-------0-------0---|------0-------0---|------0-------0---|------0-------0---|
+B||-----1---1---1---1-|----0---0---0---0-|----3---3---3---3-|----1---1---1---1-|
+G||*--2-----L-2-----L-|--1-----L---------|--4-----L-4-----L-|--2-----L---------|
+D||*------------------|----------2-----L-|------------------|------------------|
+A||-------------------|------------------|------------------|----------0-----L-|
+E||-------------------|------------------|------------------|------------------|
+      2 1                1       2          4 3                2 1
+
+5  S S S S S S S S    S S S S S S S S    S S S S S S S S    S S S S Q
+-------0-------0---|------1-------1---|------0-------0---|------0---------||
+-----1---1---2---2-|----3---3---3---3-|----1---1---0---0-|----1---1-------||
+---2-----L-0-----L-|------------------|----------1-----L-|--2-----L-------||
+-------------------|--3-----L-0-----L-|--2-----L---------|----------------||
+-------------------|------------------|------------------|----------0-----||
+-------------------|------------------|------------------|----------------||
+             2        3 4 1              2 1     1
+
+9  S S S S S S S S    S S S S S S S S    S S S S S S S S    S S S S S S S S
+-------0-------0---|------1-------1---|------0-------0---|------1-------1---|
+-----1---1---1---1-|----0---0---0---0-|----1---1---1---1-|----0---0---0---0-|
+---2-----L-2-----L-|--0-----L---------|------------------|--0-----L---------|
+-------------------|------------------|----------2-----L-|------------------|
+-------------------|------------------|--3-----L---------|------------------|
+-------------------|----------3-----L-|------------------|----------3-----L-|
+   2 1                    1   3          3 1     2 1            1   3
+
+13  S S S S S S S S    S S S S S S S S    S S S S S S S S    S S S S Q
+--------0-------0---|------0-------0---|------1-------0---|------0---------||
+------1---1---3---3-|----1---1---1---1-|----0---0---3---3-|----1---1-------||
+--------------------|------------------|------------------|--2-----L------*||
+--------------------|------------------|--0-----L-2-----L-|---------------*||
+----3-----L-2-----L-|--0-----L-3-----L-|------------------|----------0-----||
+--------------------|------------------|------------------|----------------||
+    3 1     2 4                                   2 4
+
+
+Notes
+-----
+
+The tab is based on the Benito Campo 1843 edition with additional left hand
+fingering taken from the Thorlaksson 2000 edition.
+
+Aguado's wrote six 'Methods' - for information on three of them see -
+"Dionisio Aguado - New Guitar Method"
+Introduction to the Tecla edition (Brian Jeffery, 1981)
+http://www.tecla.com/extras/0001/0011/0011intro.htm
+
+Legend
+------
+
+right hand fingering above the tab      left hand fingering below the tab
+p - thumb                               1 - index
+i - index                               2 - middle
+m - middle                              3 - ring
+                                        4 - little
+
+Q - quarter note
+S - 16th note
+
+L - tied note (the first note is held for the duration of the second "L" note)
+
+|----   ----|
+|----   ----|
+|*---   ---*|  repeat the
+|*---   ---*|   section
+|----   ----|
+|----   ----|
+

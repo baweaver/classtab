@@ -1,0 +1,47 @@
+#----------------------------------PLEASE NOTE--------------------------------#
+#This file is the author's own work and represents their interpretation of the#
+#song. You may only use this file for private study, scholarship, or research.#
+#-----------------------------------------------------------------------------#
+
+From: Rick Kephart <rmk@netaxs.com>
+Subject: TAB: Gregorian Chant: Da Pacem
+
+                                   DA PACEM
+
+Tablature by Rick Kephart <rmk@netaxs.com>
+
+A Gregorian Chant hymn. Normal guitar tuning. Chant has no time signature.
+"." after a note means hold. "/" means hammer-on. "\" means pull-off.
+
+e|-----------------------|----------------------|-
+b|-----------------0-------------0----------------
+g|--------------3-----3.---2--3----3\2--0.--0.----
+D|--0.------0-------------------------------------
+A|------3-----------------------------------------
+E|------------------------------------------------
+   Da   pa-cem  Do-mi-ne   in di-e-bus  nos-tris:
+
+e -------------------------------------|-----------------------|-
+b ---------------------------------------------------------------
+g -----------------------0/2\0--2/3\2.---2--2---0----------------
+D --3--3--3\2--0---2--3-----------------------------3--3\5--3.---
+A ---------------------------------------------------------------
+E ---------------------------------------------------------------
+   qui-a  non  est a-li-us              qui pu-gnet pro no-bis
+
+e ------------------------------
+b ------------------------------
+g -------------0----------------
+D --3--3--2/3-----3\2--0.--0.---
+A ------------------------------
+E ------------------------------
+
+    ni-si tu   De-us   nos-ter.
+
+
+Da pacem Domine      {give peace, Lord}
+in diebus nostris    {in our days}
+quia non est alius   {for there is no other}
+qui pugnet pro nobis {who fights for us}
+nisi tu Deus noster  {except You, our God}
+

@@ -1,0 +1,102 @@
+Op 20, 24 Praludien - 21. Sogno (Dream) - Carlo Domeniconi
+Gitarren-Studio Musikverlag, Eleonora & Michael Haas, Berlin, 1985 (GS-050)
+
+MIDI: http://classtab.org/domeniconi_op020_24_praludien_21_sogno.mid
+
+Tabbed by Weed - weed@wussu.com - 27 December 2014
+
+See Notes and Legend below the tab.
+
+tuning: EADGBE          time: 2/2          tempo: 66 bpm (half notes)
+
+   Andantino (a short Andante / at a moderate speed)
+
+1  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|-0-------0-----0-|-2-------2-----2-|-3-------0-------|-----------------|
+B|-------4-----4---|-------4-----4---|-------0-------0-|-------0g--------|
+G|-----0-----0-----|-----0-----0-----|-----0-------0---|---------3=======|
+D|-----------------|-4===============|-0=======--------|-----------------|
+A|-----------------|-----------------|---------4=======|-2===============|
+E|-0===============|-----------------|-----------------|-----------------|
+         4           1                 2                         2........
+                     3                         3         1
+   mf  < < < < < < < < < < < < < < <   > > > > > > > >   > > > > > > > > >
+
+
+                     marcata la melodia (emphasize the melody)
+                     -       -         -       -
+5  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .   ++
+E|-----------------|-------0-----0---|-----------------|-0===============||
+B|-----------------|-----1-----1-----|-------0-----0---|-4===============||
+G|-6-------1-------|-0=======--------|-----2-----2-----|-0=======--------||
+D|-----------------|---------4=======|-1=======2=======|---------4=======||
+A|-----------------|-----------------|-----------------|-3=======2=======||
+E|-----------------|-0===============|-3===============|-----------------||
+ ..2.......2             1             1   2             4       3
+                             4         3       1         2       1
+ > > > > > > > > >   > > > > > > > >   < < < < < < < <   > > > > > > > >
+
+
+           >                                   >
+9  |   .   |   .     |   .   |   .     |   .   |   .     |   .   |   .
+E|---------7=======|-6=======5=======|---------4=======|-3=======2=======|
+B|---------0=======|---0-2-----------|---------0=======|---0-------------|
+G|---------5=======|-----------------|---------3=======|-----3-----------|
+D|-----------------|-------0=========|-----------------|-------0=========|
+A|-----------------|-----------------|-----------------|-----------------|
+E|-0===============|-----------------|-0===============|-----------------|
+           4         3   2   1                 4         3   2   1
+           1                                   2
+           ff                                  f
+                     > > > > > >                         > > > > > >
+
+
+                                          Coda      F.
+                                                    >
+13 |   .   |   .                            |   .   |   .
+E|=========1=======||  Da Capo al Coda    |---------12======||
+B|---------2=======||  (return to the     |---------0=======||
+G|---------1=======||  start and continue |---------0=======||
+D|-----------------||  until the Coda     |---------10======||
+A|-----------------||  sign ++ then jump  |-----------------||
+E|-0===============||  to the Coda)       |-0===============||
+           3                                        4
+           4
+           2                                        1
+           p
+
+
+Notes and Legend
+----------------
+There is no key signature, but it is closest to the key of Em.
+The sheet gives 56 seconds for the time of the piece.
+
+Order of play - measures 1-13, 1-8, 14
+
+left hand fingering below tab
+1 - index finger
+2 - middle finger
+3 - ring finger
+4 - little finger
+
+===    - note duration
+g      - grace note - acciacatura - the note is played immediately before or
+         at the same time as the following note, and immediately released -
+         both notes are plucked with the index finger of the right hand
+-      - (above the tab) - tenuto - tenuto usually means hold the note for at
+         least its full length, but here it means play the note slightly louder
+++     - on repeat go to the Coda
+>      - ((above the tab) (all the notes of the chord are) accented, stressed
+F.     - Fermata - pause (hold the chord)
+
+< < <  - (below the tab) crescendo - becoming louder
+> > >  - (below the tab) decrescendo - becoming softer
+f      - forte - loud
+ff     - fortissimo - very loud
+mf     - mezzo forte - medium loud
+p      - piano - soft
+
+------------------------------------------------------------------------------
+
+more classical tabs at http://www.classtab.org
+

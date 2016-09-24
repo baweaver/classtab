@@ -1,0 +1,98 @@
+Nuevo Método para Guitarra por D. Dionisio Aguado (1784-1849)
+Part 2, Section 2, Chapter 1, Exercise 3 in A
+
+Nuevo Metodo para Guitarra - (1st edition, Madrid, Benito Campo, 1843)
+Parte Segunda Practica - Seccion segunda - Ejercicios - Capitulo I (para 207)
+Ejercicios para la mano derecha. (Exercises for the right hand.)
+
+Exercise 3 - Se ha de proceder con el mismo cuidado que en ejercicio 2.
+No se pulsara el Mi regrave del compas 9 y siguientes hasta que los dedos
+se hallen colocados en las notas inmediatas que siguen.
+http://imslp.org/wiki/Nuevo_m%C3%A9todo_para_guitarra_%28Aguado,_Dionisio%29
+
+Op 6 Part 2, Exercises for the right hand, Exercise 7 in A
+Nuevo Metodo de Guitarra (Campo, Madrid, 1840)
+
+Metodo de Guitarra I - Revised by Eythor Thorlaksson (2000) - Lesson 11
+http://www.classicalguitarschool.net/en/Methods.aspx
+
+tabbed by yazbek999@hotmail.com (June 2013)
+
+see below the tab for Notes and Legend
+
+Tuning: E A D G B E      Key: A      Time: 6/8
+
+
+1   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|----0=====0===|---0=====0===|---0=====0===|---0=====----|
+B|----2=====2===|---3=====3===|---3=====3===|---2=====----|
+G|*-2===1-2===3-|-4===3-4===2-|-1===------1-|-2===--------|
+D|*-------------|-------------|-----2-4===--|-----2-------|
+A|--------------|-------------|-------------|-------0===--|
+E|--------------|-------------|-------------|-------------|
+    2 3 1 2   4   4 3 2 4 3 2   1 3 2 4 3 1   1 2 1
+
+5   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|----0=====0===|---------0===|---2=====----|---0=======--||
+B|----2=====0===|---4=====----|---------4===|---0=======--||
+G|--2===2-1===1-|---2=====1===|---2=====2===|---1=======-*||
+D|--------------|-4===4-2===2-|-------------|-----2------*||
+A|--------------|-------------|-0===0-2===2-|-------------||
+E|--------------|-------------|-------------|-0===--0===--||
+      2   1   1     4     1       3     4       1
+    2   2         3 1 3 2   2     2   1 2 1       2
+
+      cII_________________________________________________
+9   | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|----------4===|---5=====----|---------4===|---5===------|
+B|----3=====3===|---2=====2===|---3=====3===|---2===2===--|
+G|*---4=====----|---------2===|---4=====----|-------2===--|
+D|*-----2-----2-|-----2-----2-|-----2-----2-|-----2-------|
+A|--------------|-------------|-------------|-0===--0===--|
+E|--0===--0===--|-0===--0===--|-0===--0===--|-------------|
+      2     4       4     1       2     4       4   2
+      3 1   2 1     1 1   1 1     3 1   2 1     1 1 1
+
+      cII___                                    cII_____
+13  | . . | . .   | . . | . .   | . . | . .   | . . | . .
+e|----5=====4===|---3===2===--|---0=====2-4-|---5-5-5===---||
+B|----2=====3===|---5===3===--|---2===3=====|---2-2-2===---||
+G|------2-----4-|-----6-------|-----2-4=====|---2---------*||
+D|--------------|-------0===--|-2===--------|-----2-------*||
+A|--0===--0===--|-0===--------|-------------|-0-----0===---||
+E|--------------|-------------|-------0=====|--------------||
+      4     3       1   1         2   2 1 4     4 4 4
+      1 1   1 2     3 4 2       1   1 3         1 1 1
+                                                1 1
+
+
+Notes
+-----
+
+The tab is based on the Benito Campo 1843 edition.
+Left hand fingering based on the Thorlaksson 2000 edition.
+
+Aguado's wrote six 'Methods' - for information on three of them see -
+"Dionisio Aguado - New Guitar Method"
+Introduction to the Tecla edition (Brian Jeffery, 1981)
+http://www.tecla.com/extras/0001/0011/0011intro.htm
+
+Legend
+------
+
+left hand fingering below the tab
+1   - index
+2   - middle
+3   - ring
+4   - little
+
+=   - note held
+cII - partial barre on the 2nd fret with the 1st finger
+
+|----   ----|
+|----   ----|
+|*---   ---*|  repeat the
+|*---   ---*|   section
+|----   ----|
+|----   ----|
+
