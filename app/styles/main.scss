@@ -23,3 +23,15 @@ $fa-font-path: "../fonts/";
   display: inline;
   width: auto;
 }
+
+footer {
+  background: #333;
+  font-size: 13px;
+  font-weight: 300;
+  color: #fff;
+  min-height: 45px;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

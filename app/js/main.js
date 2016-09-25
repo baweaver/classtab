@@ -14,17 +14,6 @@ import './controllers';
 import './services';
 import './directives';
 
-// Bootstrap is NOTORIOUSLY touchy about jQuery being on Window
-// and there're issues with ES6 loading modules so we have to
-// fall back here.
-
-// BOOTSTRAP HACK
-window.$ = window.jQuery = require('jquery');
-var Bootstrap = require('bootstrap-sass');
-Bootstrap.$ = $;
-require('../../node_modules/bootstrap-sass/assets/javascripts/bootstrap');
-// END BOOTSTRAP HACK
-
 // create and bootstrap application
 const requires = [
   'ui.router',

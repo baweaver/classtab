@@ -1,17 +1,13 @@
 {
-  "name": "angular-quickstart",
-  "version": "1.0.0",
-  "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
+  "name": "Classtab Client",
+  "version": "0.0.1",
+  "description": "Classtab AngularJS Client application",
+  "author": "Brandon Weaver",
+  "contributors": [],
+  "license": "MIT",
   "keywords": [
-    "express",
-    "gulp",
-    "browserify",
-    "angular",
-    "sass",
-    "karma",
-    "jasmine",
-    "protractor",
-    "boilerplate"
+    "classical",
+    "guitar"
   ],
   "browserify": {
     "transform": [
@@ -92,7 +88,6 @@
   "scripts": {
     "test": "./node_modules/.bin/gulp test"
   },
-  "license": "MIT",
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "font-awesome": "^4.6.3",

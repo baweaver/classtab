@@ -1,13 +1,8 @@
 <div class="row">
   <div class="col-md-6">
     <input ng-model="search.composer"
-      uib-typeahead="
-        composer.name for
-        composer in
-        composerGroup |
-        filter:{name:$viewValue} |
-        limitTo:8
-      "
+      ng-model-options="{debounce: 25}"
+      typeahead-show-hint="true"
       type="text"
       class="form-control"
       placeholder="Composer"
@@ -15,12 +10,17 @@
   </div>
 
   <div class="col-md-6">
-    <input ng-model="search.songName" type="text" class="form-control" placeholder="Song Name">
+    <input ng-model="search.songName"
+      ng-model-options="{debounce: 25}"
+      type="text"
+      class="form-control"
+      placeholder="Song Name"
+    >
   </div>
 </div>
 
-<div ng-repeat="composerGroup in tabData | filter:{name: search.composer}"
-  ng-show="(composerGroup.tabs | filter:{name: search.songName}).length"
+<div ng-repeat="composerGroup in tabData | filter:{name: search.composer} track by $index"
+  ng-if="(composerGroup.tabs | filter:{name: search.songName}).length"
 >
   <h3>
     <span ng-bind="composerGroup.name"></span>
@@ -29,7 +29,7 @@
 
   <table class="table table-striped">
     <tr ng-repeat="
-      tab in composerGroup.tabs | filter:{name: search.songName}
+      tab in composerGroup.tabs | filter:{name: search.songName}  track by $index
     ">
       <td width="10%">
         <!-- Meta Information -->
@@ -98,7 +98,7 @@
           <!-- Midis -->
           <a ng-repeat="midi in tab.midis"
             target="_self"
-            href="/midis/{{::midi}}"
+            href="midis/{{::midi}}"
             uib-tooltip="Midi"
             tooltip-placement="right"
           >
@@ -108,7 +108,7 @@
       </td>
 
       <td>
-        <a href="/tabs/{{::tab.file}}" target="_self">
+        <a href="tabs/{{::tab.file}}" target="_self">
           <span ng-bind="tab.name"></span>
         </a>
       </td>
