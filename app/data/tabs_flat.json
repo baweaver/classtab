@@ -1434,7 +1434,7 @@
           "videoLink": "http://www.youtube.com/watch?v=7ypIfz5R86o"
         }
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Hector Ayala  (Héctor Ayala)",
@@ -1450,7 +1450,7 @@
           "videoLink": "http://www.youtube.com/watch?v=QFA5sQuxoFM"
         }
       ],
-      "difficulty": "none"
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Hector Ayala  (Héctor Ayala)",
@@ -1460,14 +1460,14 @@
       "midis": [
         "ayala_serie_americana_3_guarania_paraguay.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Salvador Bacarisse",
       "name": "Concertina in Am Op 72 - 2nd movement",
       "misc": "Romanza Andante",
       "tabFile": "sb72_2.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Carl Philipp Emanuel Bach",
@@ -1477,14 +1477,35 @@
       "midis": [
         "jsba122.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
+    },
+    {
+      "composerName": "Carl Philipp Emanuel Bach",
+      "name": "Anna Magdalena Anh 124 - March in G",
+      "misc": "(attrib)",
+      "tabFile": "jsba124z.txt",
+      "leftHandFingering": true,
+      "midis": [
+        "jsba124z.mid"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "composerName": "Carl Philipp Emanuel Bach",
+      "name": "Solfeggio (Solfeggietto) in Cm",
+      "misc": "(attrib)",
+      "tabFile": "bach_cpe_solfeggio_in_cm.txt",
+      "midis": [
+        "bach_cpe_solfeggio_in_cm.mid"
+      ],
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "Anna Magdalena - Aria",
       "misc": "(Anh ",
       "tabFile": "jsbaariz.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1507,7 +1528,7 @@
       "midis": [
         "jsba115.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1525,7 +1546,7 @@
       "midis": [
         "jsba122.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1537,7 +1558,7 @@
         "jsba124z.mid"
       ],
       "leftHandFingering": true,
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1547,7 +1568,7 @@
       "midis": [
         "jsba126.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1564,7 +1585,7 @@
       "name": "BWV 34 - My Heart Ever Faithful",
       "misc": "Pentecost Cantata",
       "tabFile": "jsb0034z.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1574,14 +1595,14 @@
       "midis": [
         "jsb0147z.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 232 - Agnus Dei",
       "misc": "Mass in B Minor",
       "tabFile": "jsb0232z.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1591,14 +1612,14 @@
       "midis": [
         "bach_js_bwv0244_o_haupt_voll.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 565 - Toccata & Fugue in Dm",
       "misc": "",
       "tabFile": "jsb0565x.txt",
-      "difficulty": "none"
+      "difficulty": "expert"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1608,21 +1629,21 @@
       "midis": [
         "jsb0578.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 596 - Organ Concerto in Dm (after Vivaldi), Largo",
       "misc": "",
       "tabFile": "bach_js_bwv0596_concerto_in_dm_3_largo.txt",
-      "difficulty": "none"
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 639 - Ich ruf' zu dir, Herr Jesu Christ",
       "misc": "",
       "tabFile": "bach_js_bwv0639_ich ruf zu dir.txt",
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1632,7 +1653,7 @@
       "midis": [
         "bach_js_bwv0645a_choral_prelude_in_eb.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1643,7 +1664,7 @@
         "bach_js_bwv0775_two-part_invention_04.mid"
       ],
       "specialType": "solo + duet",
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1653,7 +1674,7 @@
       "midis": [
         "bach_js_bwv0779_two-part_invention_08.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1663,7 +1684,7 @@
       "midis": [
         "bach_js_bwv0780_two-part_invention_09.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -1676,14 +1697,14 @@
           "videoLink": "http://www.youtube.com/watch?v=ND0geIgFWZM"
         }
       ],
-      "difficulty": "none"
+      "difficulty": "expert"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 785 - Two-Part Invention No 14 in Bb",
       "misc": "",
       "tabFile": "bach_js_bwv0785_two-part_invention_14.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -5326,7 +5347,7 @@
       "name": "C58 - Sonata in Am (Andantino grazioso) (transposed to Dm)",
       "misc": "",
       "tabFile": "cimarosa_c58_sonata_in_am_(dm).txt",
-      "midis": "cimarosa_c58_sonata_in_am_(dm).mid",
+      "midis": ["cimarosa_c58_sonata_in_am_(dm).mid"],
       "difficulty": "none"
     },
     {
@@ -11469,7 +11490,7 @@
       "name": "Mi Niñito Precioso",
       "misc": "(Mi Ninito Precioso)",
       "tabFile": "lauro_&_rossi_mi_ninito_precioso.txt",
-      "midis": "lauro_&_rossi_mi_ninito_precioso.mid",
+      "midis": ["lauro_&_rossi_mi_ninito_precioso.mid"],
       "difficulty": "none"
     },
     {
@@ -12059,7 +12080,7 @@
       "name": "Les Folies d'Espagne - Theme",
       "misc": "",
       "tabFile": "marais_les_folies_d'espagne_theme.txt",
-      "midis": "marais_les_folies_d'espagne_theme.mid",
+      "midis": ["marais_les_folies_d'espagne_theme.mid"],
       "difficulty": "easy"
     },
     {
@@ -12129,7 +12150,7 @@
       "midis": [
         "mertz_op04_no2_nocturne_in_c.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Kaspar Mertz",
@@ -12147,21 +12168,14 @@
         {
           "performer": "Frank Bungarten",
           "videoLink": "http://www.youtube.com/watch?v=JUgnto8VXck"
-        }
-      ],
-      "meta": "part1",
-      "difficulty": "none"
-    },
-    {
-      "composerName": "Johann Kaspar Mertz",
-      "videos": [
+        },
         {
           "performer": "Frank Bungarten",
           "videoLink": "http://www.youtube.com/watch?v=7B_L1MnF8tg"
         }
       ],
-      "meta": "part2",
-      "difficulty": "none"
+      "meta": "part1",
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Johann Kaspar Mertz",
@@ -12175,7 +12189,7 @@
       "name": "Op 13, Bardenklänge (Bardic Sounds) - H1 No 1, An Malvina",
       "misc": "",
       "tabFile": "mertz_op13_bardenklange_h01_1_an_malvina.txt",
-      "difficulty": "none"
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Johann Kaspar Mertz",
@@ -12188,14 +12202,14 @@
           "videoLink": "http://www.youtube.com/watch?v=crP1z4h_Us8"
         }
       ],
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Kaspar Mertz",
       "name": "Op 13, Bardenklänge - H10 No 1, Romanze",
       "misc": "",
       "tabFile": "mertz_op13_no10_bardenklange_romanze.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Kaspar Mertz",
@@ -12241,7 +12255,7 @@
       "name": "Kukuk (Cuckoo) - No 132. Bin i nit a lust'ger Schweizerbu",
       "misc": "",
       "tabFile": "mertz_kukuk_132_bin_i_nit_a_lust'ger_schweizerbu.txt",
-      "midis": "mertz_kukuk_132_bin_i_nit_a_lust'ger_schweizerbu.mid",
+      "midis": ["mertz_kukuk_132_bin_i_nit_a_lust'ger_schweizerbu.mid"],
       "videos": [
         {
           "performer": "Norbert Neunzling",
@@ -12273,14 +12287,20 @@
       "name": "La Rimembranza",
       "misc": "",
       "tabFile": "mertz_la_rimembranza.txt",
-      "difficulty": "none"
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Kaspar Mertz",
       "name": "Pianto dell'amante",
       "misc": "",
       "tabFile": "mertz_pianto_dell_amante.txt",
-      "difficulty": "none"
+      "videos": [
+        {
+          "performer": "Heike Matthiesen",
+          "videoLink": "https://vimeo.com/30943295"
+        }
+      ],
+      "difficulty": "advanced"
     },
     {
       "composerName": "Johann Kaspar Mertz",
@@ -12450,7 +12470,7 @@
         }
       ],
       "leftHandFingering": true,
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Johann Kaspar Mertz",
@@ -14873,7 +14893,7 @@
       "name": "O Astronauta",
       "misc": "",
       "tabFile": "powell_&_moraes_o_astronauta.txt",
-      "midis": "powell_&_moraes_o_astronauta.mid",
+      "midis": ["powell_&_moraes_o_astronauta.mid"],
       "difficulty": "none"
     },
     {
@@ -15767,7 +15787,7 @@
       "misc": "(Espanoleta / Espagnoletta) ",
       "tabFile": "gsespan.txt",
       "leftHandFingering": true,
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Gaspar Sanz",
@@ -15777,14 +15797,14 @@
       "midis": [
         "gsfugaa.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Gaspar Sanz",
       "name": "Gallardas",
       "misc": "",
       "tabFile": "gsgalla.txt",
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Gaspar Sanz",
@@ -15809,7 +15829,7 @@
       "misc": "",
       "tabFile": "gsmariz.txt",
       "leftHandFingering": true,
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Gaspar Sanz",
@@ -15819,7 +15839,7 @@
       "midis": [
         "gssesqui.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Gaspar Sanz",
@@ -15829,7 +15849,7 @@
       "midis": [
         "gspavan.mid"
       ],
-      "difficulty": "none"
+      "difficulty": "easy"
     },
     {
       "composerName": "Gaspar Sanz",
@@ -15858,7 +15878,7 @@
         "gscanar.mid"
       ],
       "leftHandFingering": true,
-      "difficulty": "none"
+      "difficulty": "intermediate"
     },
     {
       "composerName": "Erik Satie",
@@ -21277,7 +21297,7 @@
       "name": "Se Io M'Accorgo",
       "misc": "Italian Renaissance lute piece",
       "tabFile": "anon_se_io_m'accorgo.txt",
-      "midis": "anon_se_io_m'accorgo.mid",
+      "midis": ["anon_se_io_m'accorgo.mid"],
       "videos": [
         {
           "performer": "Massimo Agostinelli",
