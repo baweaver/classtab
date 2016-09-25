@@ -56,6 +56,7 @@
     "gulp-eslint": "^2.0.0",
     "gulp-gh-pages": "^0.5.4",
     "gulp-gzip": "^1.2.0",
+    "gulp-html-replace": "",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^2.4.0",
     "gulp-jsonminify": "",

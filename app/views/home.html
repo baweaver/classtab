@@ -97,7 +97,8 @@
 
           <!-- Midis -->
           <a ng-repeat="midi in tab.midis"
-            ng-href="midis/{{::midi}}"
+            target="_self"
+            href="/midis/{{::midi}}"
             uib-tooltip="Midi"
             tooltip-placement="right"
           >
@@ -107,7 +108,7 @@
       </td>
 
       <td>
-        <a href="tabs/{{::tab.file}}">
+        <a href="/tabs/{{::tab.file}}" target="_self">
           <span ng-bind="tab.name"></span>
         </a>
       </td>

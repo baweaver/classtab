@@ -1,7 +1,7 @@
 'use strict';
 
 export default {
-
+  baseUrl: '/classtab/',
   browserPort: 3000,
   UIPort: 3001,
   testPort: 3002,

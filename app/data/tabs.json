@@ -5919,6 +5919,10 @@
     "file": "mertz_pianto_dell_amante.txt",
     "name": "Pianto dell'amante"
   }, {
+    "file": "mertz_fingals_hohle.txt",
+    "name": "Fingal's Hohle",
+    "difficulty": "intermediate"
+  }, {
     "file": "mertz_schule_fur_die_guitare_ubungsstuck_01.txt",
     "name": "Schule für die Guitare - Übungsstück 1",
     "difficulty": "easy",

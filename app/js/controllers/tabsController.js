@@ -3,7 +3,7 @@ function TabsController ($scope, $http, Search) {
 
   $scope.search = Search.scopeMixins;
 
-  $http.get('/data/tabs.json').then(function (response) {
+  $http.get('data/tabs.json').then(function (response) {
     $scope.tabData = response.data;
   });
 }
