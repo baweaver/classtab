@@ -660,7 +660,7 @@
         "name": "Op 71 Recuerdos De Viaje - No 6 Rumores De La Caleta (Malagueña)",
         "misc": "(Malaguena)",
         "tabFile": "albeniz_isaac_op071_no6_recuerdos_rumores.txt",
-        "difficulty": "expert"
+        "difficulty": "intermediate"
       },
       {
         "name": "Op 92 Piezas Caracteristicas - No 12 Torre Bermeja (Serenata)",
@@ -722,7 +722,7 @@
         "name": "Sonata in D (Zapateado)",
         "misc": "",
         "tabFile": "albeniz_mateo_sonata_in_d.txt",
-        "difficulty": "none"
+        "difficulty": "intermediate"
       }
     ]
   },
@@ -777,7 +777,7 @@
         ],
         "meta": "(from 5m 21s)",
         "leftHandFingering": true,
-        "difficulty": "none"
+        "difficulty": "intermediate"
       }
     ]
   },
@@ -789,7 +789,7 @@
         "name": "Adagio in Gm",
         "misc": "solo + duet versions",
         "tabFile": "albinoni_adagio_gm.txt",
-        "difficulty": "none"
+        "difficulty": "intermediate"
       }
     ]
   },
@@ -804,7 +804,7 @@
         "midis": [
           "allison_almain.mid"
         ],
-        "difficulty": "none"
+        "difficulty": "easy"
       }
     ]
   },
@@ -816,7 +816,13 @@
         "name": "Sonata No 2",
         "misc": "",
         "tabFile": "angulo_sonata_2.txt",
-        "difficulty": "none"
+        "videos": [
+          {
+            "performer": "Anton Baranov",
+            "videoLink": "https://www.youtube.com/watch?v=P5eiaIeDYqs"
+          }
+        ],
+        "difficulty": "intermediate"
       }
     ]
   },
@@ -828,7 +834,13 @@
         "name": "Bolero in Am",
         "misc": "",
         "tabFile": "arcas_bolero.txt",
-        "difficulty": "none"
+        "videos": [
+          {
+            "performer": "Carles Trepat",
+            "videoLink": "https://www.youtube.com/watch?v=wVS2NmE97Ug"
+          }
+        ],
+        "difficulty": "intermediate"
       }
     ]
   },
@@ -843,11 +855,11 @@
         "videos": [
           {
             "performer": "Jaka Klun",
-            "videoLink": "https://www.youtube.com/watch?v=iXNWOKFt9G4"
+            "videoLink": "https://youtu.be/iXNWOKFt9G4?t=6m04s"
           }
         ],
         "meta": "(from 6min 4sec)",
-        "difficulty": "none"
+        "difficulty": "advanced"
       }
     ]
   },
@@ -869,7 +881,7 @@
           }
         ],
         "leftHandFingering": true,
-        "difficulty": "none"
+        "difficulty": "advanced"
       },
       {
         "name": "Aquarelle Suite - 2. Valseana",
@@ -884,7 +896,7 @@
             "videoLink": "http://www.youtube.com/watch?v=Dj9SDGfP0U0"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "intermediate"
       },
       {
         "name": "Aquarelle Suite - 3. Prelude e Toccatina",
@@ -896,7 +908,7 @@
             "videoLink": "http://www.youtube.com/watch?v=lXQIuzh6SiM"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "advanced"
       },
       {
         "name": "Fantasia Carioca",
@@ -908,7 +920,7 @@
             "videoLink": "http://www.youtube.com/watch?v=9zEDOCllOkA"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "expert"
       },
       {
         "name": "Farewell",
@@ -924,7 +936,7 @@
           }
         ],
         "leftHandFingering": true,
-        "difficulty": "none"
+        "difficulty": "easy"
       },
       {
         "name": "Sonata for Solo Guitar - 1. Allegro moderato",
@@ -936,7 +948,7 @@
             "videoLink": "http://vimeo.com/17690325"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "expert"
       },
       {
         "name": "Suite Brasileira No 3 - 1. Cantoria Nordestina",
@@ -948,7 +960,7 @@
             "videoLink": "http://www.youtube.com/watch?v=2B6sLLb8rSk"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "intermediate"
       },
       {
         "name": "Suite Brasileira No 3 - 2. Capoeira",
@@ -960,7 +972,7 @@
             "videoLink": "http://www.youtube.com/watch?v=I9GuunqIS9A"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "advanced"
       },
       {
         "name": "Suite Brasileira No 3 - 3. Coco",
@@ -972,7 +984,7 @@
             "videoLink": "http://www.youtube.com/watch?v=fYp08Vepk_M"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "advanced"
       },
       {
         "name": "Suite Brasileira No 3 - 4. Cantiga De Sertao",
@@ -984,13 +996,19 @@
             "videoLink": "http://www.youtube.com/watch?v=kU20ZjDJ2jA"
           }
         ],
-        "difficulty": "none"
+        "difficulty": "intermediate"
       },
       {
         "name": "Suite Brasileira No 3 - 5. Caboclinhos",
         "misc": "",
         "tabFile": "assad_sergio_suite_brasileira_3_5_caboclinhos.txt",
-        "difficulty": "none"
+        "videos": [
+          {
+            "performer": "Thomas Viloteau",
+            "videoLink": "https://www.youtube.com/watch?v=OQ-MtauPvcM"
+          }
+        ],
+        "difficulty": "intermediate"
       }
     ]
   },
@@ -1002,7 +1020,7 @@
         "name": "Sonatina No 2 in C - Allegro",
         "misc": "",
         "tabFile": "ta_s02a.txt",
-        "difficulty": "none"
+        "difficulty": "easy"
       }
     ]
   },
@@ -1017,7 +1035,7 @@
         "midis": [
           "ayala_el_sureno_malambo.mid"
         ],
-        "difficulty": "none"
+        "difficulty": "easy"
       },
       {
         "name": "Serie Americana - Preludio",

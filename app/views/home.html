@@ -1,7 +1,8 @@
+<!-- Search Controls -->
 <div class="row">
   <div class="col-md-4">
     <input ng-model="search.composer"
-      ng-model-options="{debounce: 25}"
+      ng-model-options="{debounce: 200}"
       typeahead-show-hint="true"
       type="text"
       class="form-control"
@@ -11,7 +12,7 @@
 
   <div class="col-md-4">
     <input ng-model="search.songName"
-      ng-model-options="{debounce: 25}"
+      ng-model-options="{debounce: 200}"
       type="text"
       class="form-control"
       placeholder="Song Name"
@@ -20,9 +21,8 @@
 
   <div class="col-md-4">
     <select ng-model="search.difficulty"
-      type="text"
+      ng-model-options="{debounce: 200}"
       class="form-control"
-      placeholder="Song Name"
     >
       <option value="">
         No Difficulty Filter
@@ -51,105 +51,97 @@
   </div>
 </div>
 
-<div vs-repeat>
-  <div ng-repeat="composerGroup in tabData | filter:{composerName: search.composer} track by $index"
-    ng-if="(composerGroup.composerTabs | filter:{
-      name: search.songName, difficulty: search.difficulty
-    }).length"
-  >
-    <h3>
-      <span ng-bind="composerGroup.composerName"></span>
-      <small ng-bind="composerGroup.composerMeta"></small>
-    </h3>
+<div ng-repeat="
+  (composerName, tabs) in filteredTabData track by composerName
+">
+  <h3>
+    <span ng-bind="composerName"></span>
+    <small ng-bind="tabData.composers[composerName]"></small>
+  </h3>
 
-    <table class="table table-striped">
-      <tr ng-repeat="
-        tab in composerGroup.composerTabs | filter:{
-          name: search.songName, difficulty: search.difficulty
-        } track by tab.tabFile
-      ">
-        <td width="10%">
-          <!-- Meta Information -->
-          <span>
-            <!-- Difficulty -->
-            <span ng-if="tab.difficulty === 'expert'"
-              uib-tooltip="This tab is very difficult"
-              tooltip-placement="right"
-              class="text-danger"
-            >
-              <i class="fa fa-exclamation-triangle"></i>
-            </span>
-
-            <span ng-if="tab.difficulty === 'advanced'"
-              uib-tooltip="This tab is difficult"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-diamond"></i>
-            </span>
-
-            <span ng-if="tab.difficulty === 'intermediate'"
-              class="text-primary"
-              uib-tooltip="This tab is moderately difficult"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-square"></i>
-            </span>
-
-            <span ng-if="tab.difficulty === 'easy'"
-              class="text-success"
-              uib-tooltip="This tab is easy"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-circle"></i>
-            </span>
-
-            <span ng-if="tab.difficulty === 'none' || !tab.difficulty"
-              uib-tooltip="Unknown difficulty"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-circle-o"></i>
-            </span>
-
-            <!-- End Difficulty -->
-
-            <!-- Left Handed Fingerings -->
-            <span ng-if="tab.leftHandFingering"
-              uib-tooltip="This tab has left hand fingerings"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-thumbs-up"></i>
-            </span>
+  <table class="table table-striped">
+    <tr ng-repeat="tab in tabs track by tab.tabFile">
+      <td width="10%">
+        <!-- Meta Information -->
+        <span>
+          <!-- Difficulty -->
+          <span ng-if="tab.difficulty === 'expert'"
+            uib-tooltip="This tab is very difficult"
+            tooltip-placement="right"
+            class="text-danger"
+          >
+            <i class="fa fa-exclamation-triangle"></i>
           </span>
 
-          <!-- Media Links -->
-          <span>
-            <!-- Youtube -->
-            <a ng-repeat="video in tab.videos track by $index"
-              ng-href="{{::video.videoLink}}"
-              uib-tooltip="Performed by {{::video.performer}}"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-youtube-play"></i>
-            </a>
-
-            <!-- Midis -->
-            <a ng-repeat="midi in tab.midis track by $index"
-              target="_self"
-              href="midis/{{::midi}}"
-              uib-tooltip="Midi"
-              tooltip-placement="right"
-            >
-              <i class="fa fa-music"></i>
-            </a>
+          <span ng-if="tab.difficulty === 'advanced'"
+            uib-tooltip="This tab is difficult"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-diamond"></i>
           </span>
-        </td>
 
-        <td>
-          <a href="tabs/{{::tab.tabFile}}" target="_self">
-            <span ng-bind="tab.name"></span>
+          <span ng-if="tab.difficulty === 'intermediate'"
+            class="text-primary"
+            uib-tooltip="This tab is moderately difficult"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-square"></i>
+          </span>
+
+          <span ng-if="tab.difficulty === 'easy'"
+            class="text-success"
+            uib-tooltip="This tab is easy"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-circle"></i>
+          </span>
+
+          <span ng-if="tab.difficulty === 'none' || !tab.difficulty"
+            uib-tooltip="Unknown difficulty"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-circle-o"></i>
+          </span>
+
+          <!-- End Difficulty -->
+
+          <!-- Left Handed Fingerings -->
+          <span ng-if="tab.leftHandFingering"
+            uib-tooltip="This tab has left hand fingerings"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-thumbs-up"></i>
+          </span>
+        </span>
+
+        <!-- Media Links -->
+        <span>
+          <!-- Youtube -->
+          <a ng-repeat="video in tab.videos track by $index"
+            ng-href="{{::video.videoLink}}"
+            uib-tooltip="Performed by {{::video.performer}}"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-youtube-play"></i>
           </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+
+          <!-- Midis -->
+          <a ng-repeat="midi in tab.midis track by $index"
+            target="_self"
+            href="midis/{{::midi}}"
+            uib-tooltip="Midi"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-music"></i>
+          </a>
+        </span>
+      </td>
+
+      <td>
+        <a href="tabs/{{::tab.tabFile}}" target="_self">
+          <span ng-bind="tab.name"></span>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
