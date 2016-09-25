@@ -1,1 +1,116 @@
-{{data | json}}
+<div class="row">
+  <div class="col-md-6">
+    <input ng-model="search.composer"
+      uib-typeahead="
+        composer.name for
+        composer in
+        composerGroup |
+        filter:{name:$viewValue} |
+        limitTo:8
+      "
+      type="text"
+      class="form-control"
+      placeholder="Composer"
+    >
+  </div>
+
+  <div class="col-md-6">
+    <input ng-model="search.songName" type="text" class="form-control" placeholder="Song Name">
+  </div>
+</div>
+
+<div ng-repeat="composerGroup in tabData | filter:{name: search.composer}"
+  ng-show="(composerGroup.tabs | filter:{name: search.songName}).length"
+>
+  <h3>
+    <span ng-bind="composerGroup.name"></span>
+    <small ng-bind="composerGroup.year"></small>
+  </h3>
+
+  <table class="table table-striped">
+    <tr ng-repeat="
+      tab in composerGroup.tabs | filter:{name: search.songName}
+    ">
+      <td width="10%">
+        <!-- Meta Information -->
+        <span>
+          <!-- Difficulty -->
+          <span ng-if="tab.difficulty === 'expert'"
+            uib-tooltip="This tab is very difficult"
+            tooltip-placement="right"
+            class="text-danger"
+          >
+            <i class="fa fa-exclamation-triangle"></i>
+          </span>
+
+          <span ng-if="tab.difficulty === 'advanced'"
+            uib-tooltip="This tab is difficult"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-diamond"></i>
+          </span>
+
+          <span ng-if="tab.difficulty === 'intermediate'"
+            class="text-primary"
+            uib-tooltip="This tab is moderately difficult"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-square"></i>
+          </span>
+
+          <span ng-if="tab.difficulty === 'easy'"
+            class="text-success"
+            uib-tooltip="This tab is easy"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-circle"></i>
+          </span>
+
+          <span ng-if="!tab.difficulty"
+            uib-tooltip="Unknown difficulty"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-circle-o"></i>
+          </span>
+
+          <!-- End Difficulty -->
+
+          <!-- Left Handed Fingerings -->
+          <span ng-if="tab.leftHandFingering"
+            uib-tooltip="This tab has left hand fingerings"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-thumbs-up"></i>
+          </span>
+        </span>
+
+        <!-- Media Links -->
+        <span>
+          <!-- Youtube -->
+          <a ng-repeat="video in tab.videos"
+            ng-href="{{::video.link}}"
+            uib-tooltip="Performed by {{::video.author}}"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-youtube-play"></i>
+          </a>
+
+          <!-- Midis -->
+          <a ng-repeat="midi in tab.midis"
+            ng-href="midis/{{::midi}}"
+            uib-tooltip="Midi"
+            tooltip-placement="right"
+          >
+            <i class="fa fa-music"></i>
+          </a>
+        </span>
+      </td>
+
+      <td>
+        <a href="tabs/{{::tab.file}}">
+          <span ng-bind="tab.name"></span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>

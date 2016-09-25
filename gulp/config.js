@@ -15,12 +15,12 @@ export default {
   },
 
   midis: {
-    src: 'app/midis/**/*.json',
+    src: 'app/midis/**/*.mid',
     dest: 'build/midis'
   },
 
   tabs: {
-    src: 'app/tabs/**/*.json',
+    src: 'app/tabs/**/*.txt',
     dest: 'build/tabs'
   },
 
@@ -59,7 +59,10 @@ export default {
     'otf',
     'ttc',
     'ttf',
-    'woff2?'
+    'woff2?',
+    'json',
+    'txt',
+    'mid'
   ],
 
   views: {
