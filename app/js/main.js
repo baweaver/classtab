@@ -7,6 +7,7 @@ import onRun     from './on_run';
 
 import 'angular-ui-router';
 import 'angular-ui-bootstrap';
+import 'angular-vs-repeat';
 
 import './templates';
 import './filters';
@@ -22,7 +23,8 @@ const requires = [
   'app.controllers',
   'app.services',
   'app.directives',
-  'ui.bootstrap'
+  'ui.bootstrap',
+  'vs-repeat'
 ];
 
 // mount on window for testing

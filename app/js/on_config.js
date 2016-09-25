@@ -10,6 +10,13 @@ function OnConfig($stateProvider, $locationProvider, $urlRouterProvider) {
       controller: 'TabsController as home',
       templateUrl: 'home.html',
       title: 'Tabs'
+    })
+    .state('about', {
+      name: 'about',
+      url: '/about',
+      controller: 'TabsController as home',
+      templateUrl: 'about.html',
+      title: 'About'
     });
 }
 
