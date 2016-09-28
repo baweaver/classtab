@@ -140,7 +140,44 @@
       <td>
         <a href="tabs/{{::tab.tabFile}}" target="_self">
           <span ng-bind="tab.name"></span>
+          <span ng-bind="tab.misc"></span>
         </a>
+      </td>
+
+      <td width="15%">
+        <span ng-switch="tab.tuning">
+          <span ng-switch-when="E A D G B E">
+            Standard Tuning
+          </span>
+
+          <span ng-switch-when="D A D G B E">
+            Drop D Tuning
+          </span>
+
+          <span ng-switch-when="D G D G B E">
+            Drop DG Tuning
+          </span>
+
+          <span ng-switch-when="?">
+            Unknown Tuning
+          </span>
+
+          <span ng-switch-when="">
+            Unknown Tuning
+          </span>
+
+          <span ng-switch-default>
+            Non-Standard Tuning
+          </span>
+        </span>
+      </td>
+
+      <td width="5%">
+        {{::tab.time || '?'}}
+      </td>
+
+      <td width="10%">
+        {{::tab.bpm || '?'}} bpm
       </td>
     </tr>
   </table>
