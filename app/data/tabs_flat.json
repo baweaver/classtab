@@ -2049,11 +2049,11 @@
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 810 - Gigue - English Suite No 5 in E minor",
       "tabFile": "jsb0810.txt",
-      "difficulty": "none",
+      "difficulty": "advanced",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "80",
+      "time": "3/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -2063,22 +2063,22 @@
         "jsb0816d.mid"
       ],
       "leftHandFingering": true,
-      "difficulty": "none",
+      "difficulty": "easy",
       "misc": "",
-      "bpm": "?",
+      "bpm": "80",
       "time": "?",
-      "tuning": "?"
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 825 - Keyboard Partita No 1 in Bb - 1. Praeludium",
       "tabFile": "bach_js_bwv0825_keyboard_partita_no1_in_bb_1_praeludium.txt",
       "leftHandFingering": true,
-      "difficulty": "none",
+      "difficulty": "intermediate",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "80",
+      "time": "4/4",
+      "tuning": "D A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -2088,11 +2088,11 @@
         "bach_js_bwv0825_keyboard_partita_no1_in_bb_3_corrente_1.mid"
       ],
       "leftHandFingering": true,
-      "difficulty": "none",
+      "difficulty": "advanced",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "140",
+      "time": "3/4",
+      "tuning": "D A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -2105,61 +2105,61 @@
         }
       ],
       "leftHandFingering": true,
-      "difficulty": "none",
+      "difficulty": "easy",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "70",
+      "time": "3/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 830 - Keyboard Partita No 6 in Em - 1. Toccata",
       "tabFile": "bach_js_bwv0830_keyboard_partita_no6_in_em_1_toccata.txt",
-      "difficulty": "none",
+      "difficulty": "expert",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "100",
+      "time": "4/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 830 - Keyboard Partita No 6 in Em - 2. Allemande",
       "tabFile": "bach_js_bwv0830_keyboard_partita_no6_in_em_2_allemande.txt",
-      "difficulty": "none",
+      "difficulty": "expert",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "100",
+      "time": "4/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 830 - Keyboard Partita No 6 in Em - 3. Corrente",
       "tabFile": "bach_js_bwv0830_keyboard_partita_no6_in_em_3_corrente.txt",
-      "difficulty": "none",
+      "difficulty": "expert",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "115",
+      "time": "3/8",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 830 - Keyboard Partita No 6 in Em - 4. Air",
       "tabFile": "bach_js_bwv0830_keyboard_partita_no6_in_em_4_air.txt",
-      "difficulty": "none",
+      "difficulty": "advanced",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "120",
+      "time": "4/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 830 - Keyboard Partita No 6 in Em - 5. Sarabande",
       "tabFile": "bach_js_bwv0830_keyboard_partita_no6_in_em_5_sarabande.txt",
-      "difficulty": "none",
+      "difficulty": "expert",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "100",
+      "time": "3/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -2168,21 +2168,21 @@
       "midis": [
         "jsb0846a.mid"
       ],
-      "difficulty": "none",
+      "difficulty": "easy",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "80",
+      "time": "2/4",
+      "tuning": "D A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 847 - Well Tempered Clavier Book I - Fugue No 2 in Cm (first 8 measures)",
       "tabFile": "jsb0847b.txt",
-      "difficulty": "none",
+      "difficulty": "intermediate",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "120",
+      "time": "2/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
@@ -2193,19 +2193,19 @@
       ],
       "difficulty": "none",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "80",
+      "time": "3/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
       "name": "BWV 851 - Well Tempered Clavier Book I - Prelude No 6 in Dm",
       "tabFile": "jsb0851a.txt",
-      "difficulty": "none",
+      "difficulty": "intermediate",
       "misc": "",
-      "bpm": "?",
-      "time": "?",
-      "tuning": "?"
+      "bpm": "120",
+      "time": "2/4",
+      "tuning": "E A D G B E"
     },
     {
       "composerName": "Johann Sebastian Bach",
